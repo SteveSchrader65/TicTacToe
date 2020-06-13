@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-29T14:32:52.736</Modified>
+      <Modified>2020-06-13T03:11:36.306</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.UWP\bin\x86\Debug\TicTacToe.UWP.exe">
       <PackagePath>entrypoint\TicTacToe.UWP.exe</PackagePath>
-      <Modified>2020-04-29T14:32:51.470</Modified>
+      <Modified>2020-06-13T03:11:34.583</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steve\.nuget\packages\pclstorage\1.0.2\lib\portable-win8+wpa81\PCLStorage.Abstractions.dll">
       <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
@@ -728,7 +728,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll">
       <PackagePath>TicTacToe.dll</PackagePath>
-      <Modified>2020-04-29T14:34:34.032</Modified>
+      <Modified>2020-06-13T03:07:27.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -887,15 +887,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf">
       <PackagePath>Microsoft.UI.Xaml\DensityStyles\Compact.xbf</PackagePath>
-      <Modified>2020-04-29T14:32:51.322</Modified>
+      <Modified>2020-06-13T03:11:34.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-04-29T14:32:51.323</Modified>
+      <Modified>2020-06-13T03:11:34.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-04-29T14:32:51.323</Modified>
+      <Modified>2020-06-13T03:11:34.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17763.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -915,7 +915,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.UWP\bin\x86\Debug\Core\TicTacToe.UWP.exe">
       <PackagePath>TicTacToe.UWP.exe</PackagePath>
-      <Modified>2020-04-29T14:32:52.732</Modified>
+      <Modified>2020-06-13T03:11:36.301</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
