@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzWWxE0rWH1vtXg34NsVpqo/N/dPdFu4HklOBDr7WftABudLW6W5HU9Th0Y9ITBJ5IlU9JTdGL8FEXy5p6Hu4g==",
+  "success": true,
+  "projectFilePath": "D:\\TAFE\\Mobile Applications\\Week6\\TicTacToe\\TicTacToe.iOS\\TicTacToe.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steve\\.nuget\\packages\\pclstorage\\1.0.2\\pclstorage.1.0.2.nupkg.sha512",
+    "C:\\Users\\Steve\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.5.1 to 1.3.1. Reference the package directly from the project to select a different version. \r\n TicTacToe.iOS -> TicTacToe -> Xamarin.Essentials (>= 1.5.1) \r\n TicTacToe.iOS -> Xamarin.Essentials (>= 1.3.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.5.0.396 to 4.4.0.991265. Reference the package directly from the project to select a different version. \r\n TicTacToe.iOS -> TicTacToe -> Xamarin.Forms (>= 4.5.0.396) \r\n TicTacToe.iOS -> Xamarin.Forms (>= 4.4.0.991265)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

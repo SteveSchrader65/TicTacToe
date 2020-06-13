@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TicTacToe.MainPage"
+             BackgroundColor="AliceBlue">
+
+    <StackLayout Orientation="Vertical" Margin="410, 100, 380, 100">
+        <Label/>
+        <Frame BorderColor="Transparent" BackgroundColor="AliceBlue" CornerRadius="0.0">
+            <StackLayout Orientation="Vertical">
+                <Label Text="Tic Tac Toe" HorizontalOptions="CenterAndExpand" FontFamily="Comic Sans MS" FontAttributes="Bold, Italic" TextColor="Black" FontSize="24"/>
+                <Label/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="AI Level: " TextColor="Blue" HorizontalOptions="EndAndExpand" FontAttributes="Bold" FontSize="16"/>
+                    <Label x:Name="difficultyLevel" Text="" TextColor="Blue" HorizontalOptions="End" FontAttributes="Bold" FontSize="16"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Player: " TextColor ="Red" HorizontalOptions="Start" FontAttributes="Bold" FontSize="16"/>
+                    <Label x:Name="playerScore" Text="" TextColor ="Red" HorizontalOptions="StartAndExpand" FontAttributes="Bold" FontSize="16"/>
+                    <Label Text="Computer: " TextColor="Blue" HorizontalOptions="EndAndExpand" FontAttributes="Bold" FontSize="16"/>
+                    <Label x:Name="computerScore" Text="" TextColor="Blue" HorizontalOptions="End" FontAttributes="Bold" FontSize="16"/>
+                </StackLayout>
+                <Frame BorderColor="Black" BackgroundColor="White">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100"/>
+                            <RowDefinition Height="3"/>
+                            <RowDefinition Height="100"/>
+                            <RowDefinition Height="3"/>
+                            <RowDefinition Height="100"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="3"/>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition Width="3"/>
+                            <ColumnDefinition Width="100"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="square1" Text="" Grid.Row="0" Grid.Column="0" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <BoxView Grid.Row="0" Grid.Column="1" Grid.RowSpan="5" BackgroundColor="Black"/>
+                        <Button x:Name="square2" Text="" Grid.Row="0" Grid.Column="2" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <BoxView Grid.Row="0" Grid.Column="3" Grid.RowSpan="5" BackgroundColor="Black"/>
+                        <Button x:Name="square3" Text="" Grid.Row="0" Grid.Column="4" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <BoxView Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" BackgroundColor="Black"/>
+                        <Button x:Name="square4" Text="" Grid.Row="2" Grid.Column="0" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <Button x:Name="square5" Text="" Grid.Row="2" Grid.Column="2" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <Button x:Name="square6" Text="" Grid.Row="2" Grid.Column="4" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <BoxView Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="5" BackgroundColor="Black"/>
+                        <Button x:Name="square7" Text="" Grid.Row="4" Grid.Column="0" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <Button x:Name="square8" Text="" Grid.Row="4" Grid.Column="2" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                        <Button x:Name="square9" Text="" Grid.Row="4" Grid.Column="4" BackgroundColor="White" FontAttributes = "Bold" FontSize="56" Clicked="PlayerMovePlaced"/>
+                    </Grid>
+                </Frame>
+                <Label/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

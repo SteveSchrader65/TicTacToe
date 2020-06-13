@@ -1,0 +1,92 @@
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache

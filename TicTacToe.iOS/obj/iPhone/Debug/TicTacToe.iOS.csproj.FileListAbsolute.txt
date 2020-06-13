@@ -1,0 +1,427 @@
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe CURRENT\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\Backups\TicTacToe AI WORKING 21-3\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe AI WORKING\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TTT - Adding new MessageCenter\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Testing\TicTacToe WORK ON THIS ONE\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.iOS.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.Abstractions.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\PCLStorage.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.dll
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\bin\iPhone\Debug\TicTacToe.pdb
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\optimized\
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csprojAssemblyReference.cache
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CoreCompileInputs.cache
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\XamlC.stamp
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.csproj.CopyComplete
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.exe
+D:\TAFE\Mobile Applications\Week6\TicTacToe\TicTacToe.iOS\obj\iPhone\Debug\TicTacToe.iOS.pdb
